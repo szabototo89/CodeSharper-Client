@@ -19,7 +19,10 @@
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-babel": "^5.1.0",
+    "gulp-bower": "0.0.10",
     "gulp-concat": "^2.5.2",
-    "gulp-newer": "^0.5.0"
+    "gulp-inject": "^1.2.0",
+    "gulp-newer": "^0.5.0",
+    "main-bower-files": "^2.8.0"
   }
 }
